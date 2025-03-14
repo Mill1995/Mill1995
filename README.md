@@ -85,7 +85,7 @@
 - [wagmi](https://wagmi.sh)
 - [Slither](https://github.com/crytic/slither)
 - [Echidna](https://github.com/crytic/echidna)
-- [Halmos](https://github.com/halmos-io/halmos)
+- [Halmos](https://github.com/a16z/halmos)
 
 
 
