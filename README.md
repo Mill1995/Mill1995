@@ -93,8 +93,6 @@
 
 ### 🔎 Some stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mill1995/langs)](https://githubtrends.io)
-
 ![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mill1995&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars,issues&show=prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mill1995&layout=compact&langs_count=8&theme=tokyonight&hide=css,html)
