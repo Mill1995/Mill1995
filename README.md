@@ -2,8 +2,8 @@
 
 ### About me 💯
 
-- 🔭 I'm currently working as a Senior Frontend Engineer at [Vabble](https://www.vabble.com/) focusing on Web3 development.
-- 🔧 My expertise lies in smart contract security, EVM-based blockchain development, and auditing of Solidity contracts.
+- 🔭 I'm currently working as a Software Engineer at [Blockscape](https://blockscape.network/).
+- 🔧 My expertise lies in Fullstack development, smart contract security, EVM-based blockchain development, and auditing of Solidity contracts.
 - 🎓 I am continuously expanding my knowledge in smart contract development, security, and the EVM.
 - ❤️ I am passionate about learning new things and blockchain security.
 - 📫 How to reach me: [yannickBusinessMail@protonmail.com](mailto:yannickBusinessMail@protonmail.com).
@@ -61,7 +61,7 @@
         src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/></a>
 </p>
 
-#### 🛠 Toolings and platforms
+#### 🛠 Toolings
 
 <p>
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker"
@@ -87,6 +87,11 @@
 - [Echidna](https://github.com/crytic/echidna)
 - [Halmos](https://github.com/a16z/halmos)
 
+#### 🛠 Platforms I build
+
+- https://easyrank.dev/
+- https://www.vabble.com/
+- https://stream.vabble.com/
+- https://dao.vabble.com/
 
 
-🌐 https://easyrank.dev/
